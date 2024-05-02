@@ -1,3 +1,16 @@
+# Demo Datasets Repository
+
+Welcome to the Demo Datasets Repository! This repository contains a collection of CSV and JSON files that can be used for demonstrating and testing applications. Whether you're looking to test a new data processing tool or need sample datasets for educational purposes, this repository provides a variety of datasets to suit your needs.
+
+## Repository Structure
+
+/datasets
+/csv
+- dataset1.csv
+- dataset2.csv
+/json
+- dataset1.json
+- dataset2.json
 
 Each folder contains different types of data files:
 - **CSV**: Comma-separated values files suitable for import into spreadsheet tools or processing in data analysis software.
